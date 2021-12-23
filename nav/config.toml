@@ -1,0 +1,17 @@
+theme = "webstack"
+version = "20.06.09"
+
+# 首页网址
+baseURL = "https://nav.game2d.com"
+# 标题
+title = "游戏开发大全导航"
+
+[params]
+    # 副标题
+    subtitle = "游戏开发资源大全，包含各种工具、知名博客、免费资源、开源项目"
+    # css和js文件的cdn
+    # cdn = "https://cdn.jsdelivr.net/gh/weibo/nav-game2d@gh-pages"
+    # 开启今日诗词
+    jinrishici = "true"
+    # 开启访问量统计
+    busuanzi = "false"
