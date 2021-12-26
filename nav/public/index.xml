@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>游戏开发大全导航</title>
+    <link>https://nav.game2d.com/</link>
+    <description>Recent content on 游戏开发大全导航</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://nav.game2d.com/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
